@@ -11,7 +11,7 @@
 }
 
 .mainHeader p {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 17px;
     margin-left: 800px;
 }
@@ -38,7 +38,7 @@
 }
 
 .headText h1 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 30px;
     font-weight: bolder;
     position: absolute;
@@ -59,7 +59,7 @@
 
 .headText h2 {
     font-size: 18px;
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     text-decoration: none;
     font-weight: lighter;
     position: absolute;
@@ -80,7 +80,7 @@
 }
 
 .secondText h1 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     margin-top: 120px;
     margin-bottom: 3px;
@@ -98,7 +98,7 @@
 }
 
 .secondText h2 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 16px;
     font-weight: lighter;
     margin-right: 90px;
@@ -106,7 +106,7 @@
 }
 
 .secondText p {
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     line-height: 1.7em;
     margin-right: 100px;
@@ -115,7 +115,7 @@
 }
 
 .third h1 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     margin-top: 80px;
     margin-bottom: 3px;
@@ -127,7 +127,7 @@
 }
 
 .third p {
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 13px;
 }
@@ -150,7 +150,7 @@
 }
 
 .brand h2 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 0px;
@@ -158,7 +158,7 @@
 }
 
 .brand p {
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 13px;
     margin-top: 5px;
@@ -192,7 +192,7 @@
 }
 
 .plan h2 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 0px;
@@ -200,7 +200,7 @@
 }
 
 .plan p {
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 13px;
     margin-top: 5px;
@@ -222,7 +222,7 @@
     width: 9%;
 }
 .illustration h2 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 0px;
@@ -230,7 +230,7 @@
 }
 
 .illustration p {
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 13px;
     margin-top: 5px;
@@ -238,7 +238,7 @@
 }
 
 .fifth h1 {
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     margin-top: 80px;
     margin-bottom: 3px;
@@ -250,7 +250,7 @@
 }*/
 
 .fifth p {
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 13px;
     margin-bottom: 60px;
@@ -293,7 +293,7 @@ li a {
     color: black;
     text-align: center;
     padding: 14px 16px;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 14px;
     text-decoration: none;
@@ -365,7 +365,7 @@ li a:hover {
 .left h1{
     font-weight: lighter;
     font-size: 25px;
-    font-family: fantasy;
+    font-family: 'Ubuntu', sans-serif;
     color: #334d4d;
     margin-left: 50px;
     margin-top: 25px;
@@ -396,7 +396,7 @@ li a:hover {
 input {
     width: 320px;
     height: 35px;
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 15px;
     color: gray;
     border-width: 0.5px;
@@ -411,7 +411,7 @@ button {
     position: absolute;
     background-color: #99ffcc;
     color: white;
-    font: bold 18px sans-serif;
+    font: bold 18px 'Raleway', sans-serif;
     letter-spacing: 3px;
     border: 2px solid #99ffcc;
     margin: 65px 0 0 110px;
@@ -425,7 +425,7 @@ button {
 }
 
 #theme {
-    font-family: sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: lighter;
     font-size: 13px;
     line-height: 1.5em;
